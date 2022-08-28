@@ -1,0 +1,86 @@
+[
+  {
+    "deseaseName": "Hawar daun",
+    "deseaseImage": [
+      "picture1.jpg",
+      "picture2.jpg",
+      "picture3.jpg",
+      "picture4.jpg",
+      "picture5.jpg"
+    ],
+    "penyebab": {
+      "image": "gambarPenyebabHawar.jpg",
+      "penjelasan": "lorem ipsum dolor sit amet"
+    },
+    "gejala": {
+      "image": "gambarGejalaHawar.jpg",
+      "penjelasan": "lorem ipsum dolor sit amet"
+    },
+    "perawatan": {
+      "image": "gambarPerawatanHawar.jpg",
+      "list": [
+        "perawatan1",
+        "perawatan2",
+        "perawatan3",
+        "perawatan4",
+        "perawatan5"
+      ]
+    }
+  },
+  {
+    "deseaseName": "Bercak daun",
+    "deseaseImage": [
+      "picture1.jpg",
+      "picture2.jpg",
+      "picture3.jpg",
+      "picture4.jpg",
+      "picture5.jpg"
+    ],
+    "penyebab": {
+      "image": "gambarPenyebabBercak.jpg",
+      "penjelasan": "lorem ipsum dolor sit amet"
+    },
+    "gejala": {
+      "image": "gambarGejalaBercak.jpg",
+      "penjelasan": "lorem ipsum dolor sit amet"
+    },
+    "perawatan": {
+      "image": "gambarPerawatanBercak.jpg",
+      "list": [
+        "perawatan1",
+        "perawatan2",
+        "perawatan3",
+        "perawatan4",
+        "perawatan5"
+      ]
+    }
+  },
+  {
+    "deseaseName": "Karat daun",
+    "deseaseImage": [
+      "picture1.jpg",
+      "picture2.jpg",
+      "picture3.jpg",
+      "picture4.jpg",
+      "picture5.jpg"
+    ],
+    "penyebab": {
+      "image": "gambarPenyebabKarat.jpg",
+      "penjelasan": "lorem ipsum dolor sit amet"
+    },
+    "gejala": {
+      "image": "gambarGejalaKarat.jpg",
+      "penjelasan": "lorem ipsum dolor sit amet"
+    },
+    "perawatan": {
+      "image": "gambarPerawatanKarat.jpg",
+      "list": [
+        "perawatan1",
+        "perawatan2",
+        "perawatan3",
+        "perawatan4",
+        "perawatan5"
+      ]
+    }
+  }
+]
